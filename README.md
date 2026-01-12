@@ -138,7 +138,4 @@ ecommerce-main/
 
 **Regislin TR**  
 GitHub: https://github.com/Regislin  
-LinkedIn: 
-
----
-
+Email: regislin2010@gmail.com
